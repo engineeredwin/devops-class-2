@@ -10,7 +10,7 @@ sudo yum install mariadb-server -y
 sudo systemctl start mariadb
 sudo systemctl enable mariadb
 cd /tmp/
-git clone -b local-setup https://github.com/gti-project-02.git
+git clone -b gtitechnet https://github.com/engineeredwin/devops-class-2.git
 #restore the dump file for the application
 sudo mysqladmin -u root password "$DATABASE_PASS"
 sudo mysql -u root -p"$DATABASE_PASS" -e "UPDATE mysql.user SET Password=PASSWORD('$DATABASE_PASS') WHERE User='root'"
