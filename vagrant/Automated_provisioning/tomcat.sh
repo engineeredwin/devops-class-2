@@ -46,8 +46,8 @@ systemctl daemon-reload
 systemctl start tomcat
 systemctl enable tomcat
 
-git clone -b local-setup https://github.com/gti-project-02.git
-cd gti-project-02
+git clone -b gtitechnet https://github.com/engineeredwin/devops-class-2.git
+cd devops-class-2
 mvn install
 systemctl stop tomcat
 sleep 60
