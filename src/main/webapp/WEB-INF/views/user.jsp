@@ -42,7 +42,7 @@ body{
                                     class="icon-bar"></span><span class="icon-bar"></span>
                             </button>
                             <a class="navbar-brand" href="${contextPath}/index">GTI TECHNET</a>
-                            <i class="brand_network"><small><small>gtiprofile</small></small></i>
+                            <i class="brand_network"><small><small>GTI</small></small></i>
                         </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">

@@ -22,7 +22,7 @@
                                     class="icon-bar"></span><span class="icon-bar"></span>
                             </button>
                             <a class="navbar-brand" href="${contextPath}/index">GTI TECHNET</a>
-                            <i class="brand_network"><small><small>gtiprofile</small></small></i>
+                            <i class="brand_network"><small><small>GTI</small></small></i>
                         </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
@@ -116,11 +116,11 @@
   <div class="container w3-padding-32" id="about">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16" align="center">ABOUT</h3>
     <div class="w3-content" style="max-width:700px">
-	    <p style="text-align:justify;">gtitectnet is an IT Educational Institute.Established in 2001,and Institute offers world class quality of education and wide range of courses.gtitectnet Institute has a dedicated placement team to help students get job placement in various IT job roles with major companies.
+	    <p style="text-align:justify;">gtitectnet is an IT Educational Institute.Established in 2000,and Institute offers world class quality of education and wide range of courses.gtitectnet Institute has a dedicated placement team to help students get job placement in various IT job roles with major companies.
 	    </p>
-	    <p><strong>Address:</strong>  Flat no: 205, 2nd Floor,NILGIRI Block,Aditya Encalve,Ameerpet, Hyderabad-16</p> 
-	    <p><strong>Ph No: </strong>  +91-9704455959,9618245689</p>
-		<p><strong>E-Mail ID :</strong>  gtitectnet999@gmail.com</p>
+	    <p><strong>Address:</strong>  Flat no: 1125, 2nd Floor,Marion Avenue, Franklin Wisconsin</p> 
+	    <p><strong>Ph No: </strong>  +1732-762-1749,732-762-1747</p>
+		<p><strong>E-Mail ID :</strong>  gtitectnet@gmail.com</p>
   	</div>
    </div>
   
@@ -145,7 +145,7 @@
 
 <!-- Footer -->
 <footer class="w3-center  w3-padding-16" style="background-color:#1C3B47 ">
-  <p style="color:#FFFFFF ">Copyright @2017 <a href="#"  target="_blank" class="w3-hover-text-green"> gtitechnet.com</a></p>
+  <p style="color:#FFFFFF ">Copyright @2023 <a href="#"  target="_blank" class="w3-hover-text-green"> gtitechnet.com</a></p>
 </footer>
 
 
